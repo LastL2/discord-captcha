@@ -52,13 +52,11 @@ const benefits = computed<BenefitDetails[]>(() => [
         <div class="text-body-1 mt-[1.25rem]">
           {{ t('discord.benefits.description') }}
         </div>
-      </div>
-      <div class="flex justify-between items-center flex-wrap gap-[3rem]">
-        <BenefitDetails
-          v-for="(benefit, i) in benefits"
-          :key="i"
-          v-bind="benefit"
-        />
+        <br />
+        <div class="text-h4">{{ t('discord.benefits.title2') }}</div>
+        <div class="text-body-1 mt-[1.25rem]">
+          {{ t('discord.benefits.description2') }}
+        </div>
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@ useHead({
     {
       key: 'description',
       name: 'description',
-      content: "Join rotki's discord community",
+      content: "Join LAST's discord community",
     },
   ],
 });

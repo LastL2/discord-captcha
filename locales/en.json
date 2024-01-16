@@ -3,37 +3,39 @@
     "go_back_home": "Go back home"
   },
   "discord": {
-    "title": "Join rotki's Discord",
-    "description": "You will get an invite to rotki's discord after solving the captcha below.",
-    "link": "Learn more at {link}",
-    "chat": "Chat with us",
+    "title": "Join the Last Network Community Discord",
+    "description": "You will get an invite to Discord after solving the captcha.",
+    "link": "",
+    "chat": "CHAT with us",
     "invite": {
       "link": "You can use the link {link} to join our Discord.",
       "expiry": "The link is valid until {expiry}."
     },
     "benefits": {
-      "title": "Benefits",
-      "description": "Joining the rotki Discord channel offers numerous benefits, including community engagement, real-time support, exclusive content, networking opportunities, and access to valuable insights and updates. It's a great platform to connect with fellow enthusiasts and stay informed about the latest developments in the crypto world.",
+      "title": "What is Last?",
+      "title2": "Why should you join?",
+      "description": "The Last Network ⬛\uFE0F is a twin-chain system featuring the Last L2, a brand new super-performant EVM Layer 2 with sustainable incentives powered by its sibling decentralized bridge chain, the Last Custody Network (LCN). Together, LastNet enables a scalable and open blockchain platform with incentives that last.",
+      "description2": "Join the Last Network Community Discord if you are (or would like to be) a developer, node operator, community member, user, or enthusiast.",
       "items": {
         "engagement": {
           "title": "Community Engagement:",
-          "description": "Joining the rotki Discord channel allows you to engage with a vibrant community of like-minded individuals interested in crypto, DeFi, open-source and more. You can participate in discussions, ask questions, and share your knowledge and experiences."
+          "description": "Joining the LAST Discord channel allows you to engage with a vibrant community of like-minded individuals interested in crypto, DeFi, open-source and more. You can participate in discussions, ask questions, and share your knowledge and experiences."
         },
         "bug_reporting": {
           "title": "Bug Reporting and Feature Requests:",
-          "description": "If you encounter any bugs or have ideas for new features in rotki, the Discord channel is an ideal place to report them and make feature requests. The rotki team values community feedback and actively considers suggestions for improving the platform."
+          "description": "If you encounter any bugs or have ideas for new features in LAST, the Discord channel is an ideal place to report them and make feature requests. The LAST team values community feedback and actively considers suggestions for improving the platform."
         },
         "community_support": {
           "title": "Community support:",
-          "description": "The Discord channel provides a platform for real-time support. If you have any issues or questions related to rotki or any other cryptocurrency-related topic, you can receive assistance from the community members or the rotki team promptly."
+          "description": "The Discord channel provides a platform for real-time support. If you have any issues or questions related to LAST or any other cryptocurrency-related topic, you can receive assistance from the community members or the LAST team promptly."
         },
         "learn": {
           "title": "Learn and Grow:",
-          "description": "By engaging with the rotki Discord community, you can enhance your knowledge and understanding of cryptocurrency, DeFi, and blockchain technology. Learn from experts, share your insights, and become a part of a dynamic learning environment."
+          "description": "By engaging with the LAST Discord community, you can enhance your knowledge and understanding of cryptocurrency, DeFi, and blockchain technology. Learn from experts, share your insights, and become a part of a dynamic learning environment."
         },
         "stay_updated": {
           "title": "Stay Updated:",
-          "description": "By joining the rotki Discord channel, you gain access to the latest news, updates, and announcements related to rotki and other relevant projects. Stay informed about new features, bug fixes, and upcoming releases."
+          "description": "By joining the LAST Discord channel, you gain access to the latest news, updates, and announcements related to LAST and other relevant projects. Stay informed about new features, bug fixes, and upcoming releases."
         },
         "networking": {
           "title": "Networking Opportunities:",
