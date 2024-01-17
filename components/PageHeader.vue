@@ -9,7 +9,7 @@ const displayUrl = computed(() => siteUrl.split('//')[1]);
 <template>
   <header>
     <div
-      class="bg-rui-primary h-[48px] text-rui-dark-text flex flex-row items-center justify-center"
+      class="bg-black h-[48px] text-rui-white-text flex flex-row items-center justify-center"
     >
       <i18n-t keypath="discord.link">
         <template #link>

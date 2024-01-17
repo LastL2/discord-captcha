@@ -1,7 +1,3 @@
-<script setup lang="ts">
-const year = new Date().getFullYear().toString();
-</script>
-
 <template>
   <div>
     <div class="container">
@@ -12,8 +8,7 @@ const year = new Date().getFullYear().toString();
         <div
           class="flex flex-wrap justify-center space-x-1 text-rui-text-secondary mt-2 lg:mt-0"
         >
-          <div>&copy; Rotki Solutions GmbH 2018-{{ year }}.</div>
-          <div>All Rights Reserved.</div>
+          <div>Last Labs Inc. 2024.</div>
         </div>
         <div>
           <FooterIconLinks />

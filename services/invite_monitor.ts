@@ -15,7 +15,7 @@ import { logger } from '~/utils/logger';
 
 export class InviteMonitor {
   private botUser: CachedUser = {
-    username: 'rotki',
+    username: 'LastInviteMgr',
     id: '',
   };
   private readonly repository = new InviteRepository();

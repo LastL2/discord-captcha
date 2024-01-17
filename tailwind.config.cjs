@@ -9,5 +9,5 @@ module.exports = {
       center: true,
     },
   },
-  plugins: [require('@rotki/ui-library/theme')],
+  // plugins: [require('@rotki/ui-library/theme')],
 };

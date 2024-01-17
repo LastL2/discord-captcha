@@ -50,7 +50,7 @@ const onCaptchaSuccess = async (token: string) => {
       class="md:h-[294px] py-[5rem] flex flex-row items-center justify-between flex-wrap"
     >
       <div class="basis-full md:basis-auto">
-        <div class="text-h6 text-rui-primary">{{ t('discord.chat') }}</div>
+        <div class="text-h6 text-rui-black">{{ t('discord.chat') }}</div>
         <div class="text-h4 mt-[0.75rem]">{{ t('discord.title') }}</div>
 
         <div v-show="!inviteLink">

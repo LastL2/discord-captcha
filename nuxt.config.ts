@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      title: 'discord.rotki.com',
+      title: 'last.community',
       htmlAttrs: {
         lang: 'en',
       },

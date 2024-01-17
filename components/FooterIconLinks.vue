@@ -3,20 +3,14 @@ const menus = computed(() => [
   {
     title: 'Github',
     showText: false,
-    href: 'https://github.com/rotki',
+    href: 'https://github.com/LastL2',
     icon: 'github-line',
   },
   {
-    title: 'Twitter',
+    title: 'X',
     showText: false,
-    href: 'https://twitter.com/rotkiapp',
+    href: 'https://x.com/L2_Last',
     icon: 'twitter-line',
-  },
-  {
-    title: 'Contact',
-    showText: true,
-    href: 'mailto:info@rotki.com',
-    icon: 'mail-send-line',
   },
 ]);
 </script>
