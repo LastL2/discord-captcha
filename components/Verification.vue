@@ -71,7 +71,7 @@ const onCaptchaSuccess = async (token: string) => {
           </i18n-t>
           <i18n-t v-if="expiry" tag="div" keypath="discord.invite.expiry">
             <template #expiry>
-              <span class="font-medium text-rui-text-secondary">
+              <span class="font-medium">
                 {{ expiry.toLocaleString() }}
               </span>
             </template>

@@ -15,7 +15,7 @@ defineProps<{
     >
       <RuiIcon :name="icon" class="text-rui-dark-text" />
     </div>
-    <div class="self-stretch text-body-1 text-rui-text-secondary">
+    <div class="self-stretch text-body-1">
       <span class="font-medium">{{ title }}</span>
       <span class="ml-1">{{ description }}</span>
     </div>

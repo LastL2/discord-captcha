@@ -48,6 +48,6 @@ useHead(() => ({
 }
 
 .subtitle {
-  @apply block font-light text-rui-text my-8 text-3xl;
+  @apply block font-light my-8 text-3xl;
 }
 </style>
