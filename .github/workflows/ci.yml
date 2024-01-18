@@ -16,6 +16,9 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
   cancel-in-progress: true
 
+env:
+  DOCKER_USERNAME: ${{ github.actor }}
+
 jobs:
   commit-lint:
     runs-on: ubuntu-latest
@@ -114,6 +117,9 @@ jobs:
           fetch-depth: 0
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v2
+      - name: Log in to Docker
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io --username ${DOCKER_USERNAME} --password-stdin
       - name: Build docker image
         uses: docker/build-push-action@v4
         with:
