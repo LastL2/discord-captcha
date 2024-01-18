@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  DOCKER_USERNAME: ${{ github.actor }}
+  DOCKER_USERNAME: l2last
 
 jobs:
   commit-lint:
