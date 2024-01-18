@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  DOCKER_USERNAME: l2last
+  DOCKER_USERNAME: lastl2
 
 jobs:
   commit-lint:
